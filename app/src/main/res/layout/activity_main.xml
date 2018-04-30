@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mainTitle01"
+        android:gravity="center"
+        android:background="@color/colorTitle"
+        android:textSize="20dp"
+        android:padding="10dp"
+        android:textColor="@color/colorWhite"/>
+
+    <Button
+        android:id="@+id/mBtn01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Basic SQL"
+        android:onClick="mOnClick"/>
+
+    <Button
+        android:id="@+id/mBtn02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnTitle02"
+        android:onClick="mOnClick"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mainTitle02"
+        android:gravity="center"
+        android:background="@color/colorTitle"
+        android:textSize="20dp"
+        android:padding="10dp"
+        android:textColor="@color/colorWhite"/>
+
+    <Button
+        android:id="@+id/mBtn03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnTitle03"
+        android:onClick="mOnClick"/>
+    <Button
+        android:id="@+id/mBtn04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnTitle04"
+        android:textAllCaps="false"
+        android:onClick="mOnClick"/>
+</LinearLayout>

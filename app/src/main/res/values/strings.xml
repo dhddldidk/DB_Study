@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DB_Study</string>
+    <string name="mainTitle01">SQLite</string>
+    <string name="mainTitle02">AdapterView</string>
+    <string name="btnTitle02">SQLite CRUD</string>
+    <string name="btnTitle03">AdaperView(Array,Simple,Cursor)</string>
+    <string name="btnTitle04">CustomCursorAdapter</string>
+</resources>
