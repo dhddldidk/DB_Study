@@ -4,11 +4,27 @@
         <item>FileIOActivity</item>
         <item>SharedPrefActivity</item>
         <item>SharedPrefFragmentActivity</item>
+        <item>SpannableActivity</item>
+        <item>WebViewActivity</item>
+        <item>ExtraViewActivity</item>
+        <item>ProgressBarAssignment</item>
+        <item>SeekBarAssignment</item>
+        <item>RatingBarAssignment</item>
+        <item>CalendarAssignment</item>
+        <item>OtherWebViewAssignment</item>
     </string-array>
     <string-array name="titles">
         <item>File Read Write</item>
         <item>Activity에서 Preference 처리</item>
         <item>Fragment에서 Preference 처리</item>
+        <item>다양한 뷰(Spannable)</item>
+        <item>WebViewActivity</item>
+        <item>Spinner ProgressBar SeekBar</item>
+        <item>ProgressBarAssignment</item>
+        <item>SeekBarAssignment</item>
+        <item>RatingBarAssignment</item>
+        <item>CalendarAssignment</item>
+        <item>OtherWebViewAssignment</item>
     </string-array>
     <string-array name="array_voice">
         <item>카톡</item>
