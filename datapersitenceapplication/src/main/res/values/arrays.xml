@@ -12,6 +12,7 @@
         <item>RatingBarAssignment</item>
         <item>CalendarAssignment</item>
         <item>OtherWebViewAssignment</item>
+        <item>ActionBarActivity</item>
     </string-array>
     <string-array name="titles">
         <item>File Read Write</item>
@@ -25,6 +26,7 @@
         <item>RatingBarAssignment</item>
         <item>CalendarAssignment</item>
         <item>OtherWebViewAssignment</item>
+        <item>ActionBarActivity</item>
     </string-array>
     <string-array name="array_voice">
         <item>카톡</item>
